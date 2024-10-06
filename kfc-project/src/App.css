@@ -1,0 +1,16 @@
+*{
+    font-family: Oswald;
+}
+
+.banner-img {
+    margin-top: 90px;
+    width: 100%;
+}
+
+.page-content {
+    padding: 22px;
+    margin-left: 94px;
+}
+.page-content h2 {
+    font-size: 28px;
+}
